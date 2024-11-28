@@ -49,3 +49,4 @@ JupyterQuiz==2.7.0a2
 pandas==2.0.2
 matplotlib==3.7.1
 AERO40041
+scikit-learn
